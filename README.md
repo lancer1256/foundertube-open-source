@@ -1,6 +1,10 @@
 # FounderTube
 
-A distraction-free way to surface high-signal videos about building businesses. Many of the best founder interviews are older uploads that YouTube's recommendation feed rarely resurfaces, so FounderTube starts from pre-generated founder and company queries, then adds date and duration filters to find the useful material directly. It keeps the viewing experience focused, without Shorts, homepage recommendations, or other algorithmic distractions.
+I have a playlist of about 700 videos from different founders and operators I've collected on YouTube over the years. A lot of the best ones are these random 25-minute interviews or talks from 2014 with 3,000 views. So I built this to automatically surface those types of videos.
+
+For the home feed, I created a list of 30–50 of the most impressive founders and companies, then a list of queries that would find good videos from them. The home feed randomly combines those two, sets the minimum duration and date filters, then shows you the videos.
+
+For searching, you can filter by year range, before a certain year, exact duration range, etc.
 
 ![FounderTube home screen](demo/foundertube-home.png)
 
