@@ -1,5 +1,7 @@
 # FounderTube
 
+**Built: July 2025**
+
 I have a playlist of about 700 videos from different founders and operators I've collected on YouTube over the years. A lot of the best ones are these random 25-minute interviews or talks from 2014 with 3,000 views. So I built this to automatically surface those types of videos.
 
 For the home feed, I created a list of 30–50 of the most impressive founders and companies, then a list of queries that would find good videos from them. The home feed randomly combines those two, sets the minimum duration and date filters, then shows you the videos.
