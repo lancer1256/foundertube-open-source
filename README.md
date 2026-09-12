@@ -6,8 +6,6 @@ For the home feed, I created a list of 30–50 of the most impressive founders a
 
 For searching, you can filter by year range, before a certain year, exact duration range, etc.
 
-![FounderTube home screen](demo/foundertube-home.png)
-
 ## Features
 
 - Pre-generated searches built around founders, companies, and business topics
