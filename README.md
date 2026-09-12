@@ -1,15 +1,14 @@
 # FounderTube
 
-A distraction-free YouTube interface for finding and watching long-form founder interviews. FounderTube removes Shorts and algorithm-heavy chrome, adds founder-specific search suggestions, date and duration filters, and lightweight local playlists.
+A distraction-free way to surface high-signal videos about building businesses. Many of the best founder interviews are older uploads that YouTube's recommendation feed rarely resurfaces, so FounderTube starts from pre-generated founder and company queries, then adds date and duration filters to find the useful material directly. It keeps the viewing experience focused, without Shorts, homepage recommendations, or other algorithmic distractions.
 
 ![FounderTube home screen](demo/foundertube-home.png)
 
-The short site-ready preview is in [`demo/foundertube-demo.mp4`](demo/foundertube-demo.mp4).
-
 ## Features
 
-- Rotating search ideas built around founders and companies
+- Pre-generated searches built around founders, companies, and business topics
 - Long-form YouTube search with date and duration filters
+- Discovery of older, high-signal interviews that are otherwise difficult to surface
 - Focused embedded player
 - Browser-local playlists with no account or database required
 - Responsive React and Tailwind interface
